@@ -1,0 +1,1323 @@
+[
+  {
+    "_id": "1",
+    "Weeks": "1",
+    "Subject": "History",
+    "Class": "jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": " Meaning of History"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able explain:"
+      },
+      {
+        "id": "2",
+        "value": "1. Explain the meaning of History to the students."
+      },
+      {
+        "id": "3",
+        "value": "2. Mention the father of Objective History to the students"
+      },
+      {
+        "id": "4",
+        "value": "3. Discuss the Importance of History "
+      },
+      {
+        "id": "4",
+        "value": "4. State the country of Origin of History and the Continent "
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "1. Students as a class engage in a class discussion on the Concept-History, meaning, objectivity, freewill and determinism, multicausalism etc."
+      },
+      {
+        "id": "2",
+        "value": "2. Students name the ’father ‘of Modern History, the first History book"
+      },
+      {
+        "id": "3",
+        "value": "-HISTORIES, author’s reasons and effects of the publication etc."
+      },
+      {
+        "id": "4",
+        "value": "3. Students relate the Historical Origin of Modern Objective History, Country of Origin, Continent, and the Importance of History, etc."
+      },
+      {
+        "id": "4",
+        "value": "3. Students to write their individual home assignment- ‘My History’ in their notebooks as a reference material."
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "1. Collaboration and Communication"
+      },
+      {
+        "id": "2",
+        "value": "2. Critical thinking and Problem solving."
+      },
+      {
+        "id": "3",
+        "value": "3. Digital Literacy."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "i. Map of the World"
+      },
+      {
+        "id": "2",
+        "value": "ii. Map of Nigeria."
+      },
+      {
+        "id": "3",
+        "value": "iii. Biography of Notable Personalities"
+      },
+      {
+        "id": "4",
+        "value": "iv. Video Clips, Audio Clips etc."
+      },
+      {
+        "id": "4",
+        "value": "iv. Magazines, Journals etc."
+      },
+      {
+        "id": "4",
+        "value": "v. Pictures, Photographs etc."
+      },
+      {
+        "id": "4",
+        "value": "Vi. Internet Resources"
+      },
+      {
+        "id": "4",
+        "value": "www.history.org"
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "Weeks": "2",
+    "Subject": "History",
+    "Class": "jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "Weeks": "3",
+    "Subject": "History",
+    "Class": "jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "differences-between-history-and-story-telling"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "1. Storytelling"
+      },
+      {
+        "id": "3",
+        "value": "2. What is History?"
+      },
+      {
+        "id": "4",
+        "value": "3. Examine the Differences between History and Storytelling."
+      },
+      {
+        "id": "4",
+        "value": "4. Relate the Features and Importance of History, i.e. Objectivity Multicausalism, etc."
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "1. Students as a class brainstorm on the Concepts “History and Storytelling” etc."
+      },
+      {
+        "id": "2",
+        "value": "2. Students differentiate between History and Storytelling in a tabular format."
+      },
+      {
+        "id": "3",
+        "value": "3. Students discuss the various advantages of History and the limitations of Storytelling, etc."
+      },
+      {
+        "id": "4",
+        "value": "4. Students examine the various features, importance of History to the students i.e. factual, time based, detailed, ethical truth, objectivity, multicausalism, etc."
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "1. Collaboration and Communication."
+      },
+      {
+        "id": "2",
+        "value": "2. Critical thinking and Problem solving."
+      },
+      {
+        "id": "3",
+        "value": "3. Digital Literacy."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "1. Drawings of scene of a storyteller and the audience "
+      },
+      {
+        "id": "2",
+        "value": "ii. Relevant pictures, photographs etc."
+      },
+      {
+        "id": "3",
+        "value": "iii. Audio and Video clips."
+      },
+      {
+        "id": "4",
+        "value": "iv. Newspaper cuttings Journals, etc."
+      },
+      {
+        "id": "4",
+        "value": "V. Internet Resources www.storey telling .com. etc."
+      },
+      {
+        "id": "4",
+        "value": "www.historiograpny,com."
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "Weeks": "4",
+    "Subject": "History",
+    "Class": "jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "sources-of-history"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "1. Explain Sources of History?"
+      },
+      {
+        "id": "3",
+        "value": "2. Mention Two Broad Sources of History you know."
+      },
+      {
+        "id": "4",
+        "value": "3. Describe the Features, Advantages and Disadvantages of the two Broad Sources in History."
+      },
+      {
+        "id": "4",
+        "value": "History features and importance today."
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "1. Students explain the meaning of a Source and give relevant examples etc."
+      },
+      {
+        "id": "2",
+        "value": "2. Students mention the two Broad Sources in History and give examples etc., i.e."
+      },
+      {
+        "id": "3",
+        "value": "a. Primary Sources -Oral Sources, Archeology, Sitology etc."
+      },
+      {
+        "id": "4",
+        "value": "b. Secondary Source-Written Sources, Botanical"
+      },
+      {
+        "id": "4",
+        "value": " Evidences, etc."
+      },
+      {
+        "id": "4",
+        "value": "3. Students in groups relate the features, Importance, merits and limitations of the Two Broad sources in History and mention the impacts of other allied sources on History today."
+      },
+      {
+        "id": "4",
+        "value": "4. Students as a class prepare an imaginary food, i.e. Jollof- Rice, mention the ingredients needed for the palatable meal, teacher then relate the imaginary food to the various Sources in History i.e. primary sources e.g. oral sources, secondary sources"
+      },
+      {
+        "id": "4",
+        "value": "E.g. written sources etc.  "
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "1. Collaboration and Communication."
+      },
+      {
+        "id": "2",
+        "value": "2. Critical thinking and Problem solving."
+      },
+      {
+        "id": "3",
+        "value": "3. Digital Literacy"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "1. Post card of Archaeological Artifacts, etc."
+      },
+      {
+        "id": "2",
+        "value": "2. Journal, Magazines,"
+      },
+      {
+        "id": "3",
+        "value": " Picture, Photographs etc."
+      },
+      {
+        "id": "4",
+        "value": "3. Oral history Objects i.e. Drums, Beads, Calabash ,class activity on Oral evidence -Current events, COVID 19/20 20 pandemic etc."
+      },
+      {
+        "id": "4",
+        "value": "4. Internet Resources"
+      },
+      {
+        "id": "4",
+        "value": "www.sourcesofHistory.com"
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "Weeks": "5",
+    "Subject": "History",
+    "Class": "jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": " Primary Sources in History"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "1. What are Primary Sources in History?"
+      },
+      {
+        "id": "3",
+        "value": "2. Mention the origin, examples, features and the reasons for the growth of the primary sources in History"
+      },
+      {
+        "id": "4",
+        "value": "3. Relate the Significance of Primary Sources in History on Historical development today."
+      },
+      {
+        "id": "4",
+        "value": "4. Explain the Merits and the Demerits of Primary sources in History."
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "1. Students in small groups discuss Primary Sources in History i.e. origin, importance etc."
+      },
+      {
+        "id": "2",
+        "value": "2. Students mention examples of Primary Sources in History i.e."
+      },
+      {
+        "id": "3",
+        "value": "a. Oral Sources-"
+      },
+      {
+        "id": "3",
+        "value": "I. Oral Tradition i.e. Legends, Folklores, Dress Culture, Dance Steps Music, Poems, Proverbs etc."
+      },
+      {
+        "id": "3",
+        "value": "ii. Oral Evidences are History"
+      },
+      {
+        "id": "3",
+        "value": "Obtained in Oral form from a Participant or a Witness i.e. Nigerian General"
+      },
+      {
+        "id": "3",
+        "value": "Election 2019, COVID 19/20 Pandemic in Nigeria etc."
+      },
+      {
+        "id": "3",
+        "value": "b. Physical History i.e. Archeological materials or Artifacts, i.e. pottery, bronze objects, iron implements, weaving looms etc."
+      },
+      {
+        "id": "3",
+        "value": "3. Students describe the features of Primary Sources in History and the impacts on Nigeria socialization today."
+      },
+      {
+        "id": "3",
+        "value": "4. Students in think pair share format examine the Advantages and Disadvantages of the Primary Sources in History"
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "1. Collaboration and Communication"
+      },
+      {
+        "id": "2",
+        "value": "2. Leadership and Personal Development"
+      },
+      {
+        "id": "3",
+        "value": "3. Digital Literacy."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "I. Samples of Artifacts"
+      },
+      {
+        "id": "2",
+        "value": "Costumes i.e. beads iron Implements, pottery etc."
+      },
+      {
+        "id": "3",
+        "value": "Ii Audio and Video clips of Traditional dance and musical instruments etc."
+      },
+      {
+        "id": "4",
+        "value": "iii. Relevant Pictures and Photographs etc."
+      },
+      {
+        "id": "3",
+        "value": "Iv. Internet Resources,"
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "Weeks": "6",
+    "Subject": "History",
+    "Class": "jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Secondary Sources in History"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "1. Students describe Secondary Sources in History."
+      },
+      {
+        "id": "2",
+        "value": "2. Students mention the examples of Secondary Sources in History i.e."
+      },
+      {
+        "id": "3",
+        "value": "a. Written sources e.g. text books, maps, magazines journals newspapers etc."
+      },
+      {
+        "id": "4",
+        "value": "b. Ethnographic evidences"
+      },
+      {
+        "id": "4",
+        "value": "c. Sitology."
+      },
+      {
+        "id": "4",
+        "value": "d. Botanical resources"
+      },
+      {
+        "id": "4",
+        "value": "e. Linguistic evidences etc."
+      },
+      {
+        "id": "4",
+        "value": "3. Students in small groups relate the features and importance of Secondary Sources, i.e. research material, make History relevant, and interesting, objective in concept, synergizes history etc."
+      },
+      {
+        "id": "4",
+        "value": "4. Students discuss the advantages and disadvantages of Secondary Sources in History today."
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "1. Students describe Secondary Sources in History."
+      },
+      {
+        "id": "2",
+        "value": "2. Students mention the examples of Secondary Sources in History i.e."
+      },
+      {
+        "id": "3",
+        "value": "a. Written sources e.g. text books, maps, magazines journals newspapers etc."
+      },
+      {
+        "id": "4",
+        "value": "b. Ethnographic evidences"
+      },
+      {
+        "id": "4",
+        "value": "c. Sitology."
+      },
+      {
+        "id": "4",
+        "value": "d. Botanical resources"
+      },
+      {
+        "id": "4",
+        "value": "e. Linguistic evidences etc."
+      },
+      {
+        "id": "4",
+        "value": "3. Students in small groups relate the features and importance of Secondary Sources, i.e. research material, make History relevant, and interesting, objective in concept, synergizes history etc."
+      },
+      {
+        "id": "4",
+        "value": "4. Students discuss the advantages and disadvantages of Secondary Sources in History today."
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "1. Critical Thinking and Problem solving"
+      },
+      {
+        "id": "2",
+        "value": "2. Leadership and Personal Development"
+      },
+      {
+        "id": "3",
+        "value": "3 Digital Literacy."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "1. Maps of Nigeria, Africa, World, etc."
+      },
+      {
+        "id": "2",
+        "value": "2. Audio and Video Clips etc."
+      },
+      {
+        "id": "3",
+        "value": "3. Magazines, Journals, Posters,"
+      },
+      {
+        "id": "4",
+        "value": "Biographies and Autobiographies, etc."
+      },
+      {
+        "id": "4",
+        "value": "4. Internet Resources,"
+      },
+      {
+        "id": "4",
+        "value": "www.secondarysourcesinhistory.com . Etc."
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "Weeks": "7",
+    "Subject": "History",
+    "Class": "jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "Mid Term Break"
+  },
+  {
+    "_id": "8",
+    "Weeks": "8",
+    "Subject": "History",
+    "Class": "jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": " Other Sources of History."
+      },
+      {
+        "id": "2",
+        "value": "Tertiary Sources of History"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "1`. Describe Tertiary Sources in History"
+      },
+      {
+        "id": "3",
+        "value": "2. Mention examples, features, and significance of Tertiary Sources in History."
+      },
+      {
+        "id": "4",
+        "value": "3. Describe how Tertiary Sources in History are obtained."
+      },
+      {
+        "id": "4",
+        "value": "4. Discuss the Advantages, and Disadvantages of"
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "1. Students in small groups mention examples of Tertiary Sources, i.e. Bulletins, Tertiary Students Project, Memoranda, Archival Records, etc."
+      },
+      {
+        "id": "2",
+        "value": "2. Students as a class explain the Importance of Tertiary sources on History today."
+      },
+      {
+        "id": "3",
+        "value": "3. Students describe the origin and features of the Tertiary source in History."
+      },
+      {
+        "id": "4",
+        "value": "4. Students relate the Advantages and the Disadvantages of Tertiary Sources in History."
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "1. Collaboration and Communication."
+      },
+      {
+        "id": "2",
+        "value": "2. Creativity and Innovation."
+      },
+      {
+        "id": "3",
+        "value": "3. Digital Literacy."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "1. Sample of Tertiary Project work,"
+      },
+      {
+        "id": "2",
+        "value": " Archival records / Materials etc."
+      },
+      {
+        "id": "3",
+        "value": "2.Video and Audio Clips"
+      },
+      {
+        "id": "4",
+        "value": "3 Magazines, Newspaper cuttings, etc."
+      },
+      {
+        "id": "4",
+        "value": "4. Internet Resource,"
+      },
+      {
+        "id": "4",
+        "value": "www.tertiarysourcesinhistory.org"
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "Weeks": "9",
+    "Subject": "History",
+    "Class": "jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": " Identification of the sources in History."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "1. Describe tertiary Sources in History."
+      },
+      {
+        "id": "3",
+        "value": "Students"
+      },
+      {
+        "id": "4",
+        "value": "2. Identify the various sources in History."
+      },
+      {
+        "id": "4",
+        "value": "3. Relate the importance of the links, sources to Historical developments."
+      },
+      {
+        "id": "4",
+        "value": "4. Explain the advantages of the identified links to Historical experiences, etc."
+      },
+      {
+        "id": "4",
+        "value": "5. Examine the negative usage of the Identified links  to History today."
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "1. Students in think pair share format identify the various sources in History."
+      },
+      {
+        "id": "2",
+        "value": "2. Students mention the Importance of the Identified sources in History"
+      },
+      {
+        "id": "3",
+        "value": "3.  Students describe the advantages of the Identified sources in History to Historical knowledge"
+      },
+      {
+        "id": "4",
+        "value": "4. Students in small groups discuss the impacts of the misuse of the Identified sources on the growth and development of History today."
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "1. Critical thinking and Problem solving."
+      },
+      {
+        "id": "2",
+        "value": "2 Communication and Collaboration."
+      },
+      {
+        "id": "3",
+        "value": "3. Digital literacy."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "1. Samples of the Identified sources in History."
+      },
+      {
+        "id": "2",
+        "value": "2. Arrangement of the various sources into their links i.e. Text books Magazines etc. as Secondary source in History."
+      },
+      {
+        "id": "3",
+        "value": "3. Internet resources"
+      },
+      {
+        "id": "4",
+        "value": "www.identification-of-sources-of-history.com"
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "Weeks": "10",
+    "Subject": "History",
+    "Class": "jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "How to access Sources in History"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "Explain sources in History"
+      },
+      {
+        "id": "3",
+        "value": "2. Give examples of sources in History"
+      },
+      {
+        "id": "4",
+        "value": "3. How to access sources in History and relate the characteristics of sources in History."
+      },
+      {
+        "id": "4",
+        "value": "4. Relate the Importance of History in our ever changing dynamic world."
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Students in small groups mention the sources of History, merits and the limitations, etc."
+      },
+      {
+        "id": "2",
+        "value": "Students examine the Concept Mono causalism and Multicausalism in Historical discuss, i.e. synergy with relevant sources in History e.g. Oral sources and Written sources combined to explain the 2019 General Elections in Nigeria, etc."
+      },
+      {
+        "id": "3",
+        "value": "3. Students in a whole class discussion relate the importance and impacts of multi causalism in accessing, detailed, comprehensive, objective, Historical experiences,  exposures, and expertise i.e. Archeology/Siteology  -Organized Excursion to Notable Historical sites in their  locality, i.e. (a) National Museum Onikan  Lagos,  (b)First Storey  building in Nigeria located at Badagry, in Lagos State etc."
+      },
+      {
+        "id": "4",
+        "value": "4. Students in the class highlight the significance of Multi causal concepts in accessing Historical facts, synergy and the complimentary impacts to Historical development in our everchanging dynamic global world etc."
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Collaboration and communication"
+      },
+      {
+        "id": "2",
+        "value": "Critical thinking and problem solving."
+      },
+      {
+        "id": "3",
+        "value": "Digital Literacy."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Learning Resources:"
+      },
+      {
+        "id": "2",
+        "value": "i. Samples of sources of history i.e. textbooks, pictures, photographs etc."
+      },
+      {
+        "id": "3",
+        "value": "ii. Organized excursion to important historical sites, Conferences, Seminars by Objective and Academic Historians on accessing sources of History."
+      },
+      {
+        "id": "4",
+        "value": "iii. Audio-Visual materials etc."
+      },
+      {
+        "id": "4",
+        "value": "iv. Internet Resources,"
+      },
+      {
+        "id": "4",
+        "value": "www.historiography and multi causalism in history.com etc."
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "Weeks": "11",
+    "Subject": "History",
+    "Class": "jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": " Importance of History-Individual"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "1. Relate the various Importance of History to the Individual i.e. better understanding of the Past, Present and the Future, etc."
+      },
+      {
+        "id": "3",
+        "value": "2. Examine the History of the individual, correction of past and present mistakes for future advancements, etc."
+      },
+      {
+        "id": "4",
+        "value": "3. Highlights History as a reservoir of knowledge to the Individual."
+      },
+      {
+        "id": "4",
+        "value": "4 Helps the Individual to have a better understanding of themselves and their environment etc."
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "1. Students as Individuals in class explain the importance of History to their lives."
+      },
+      {
+        "id": "2",
+        "value": "2. Students relate the impacts of History on their environment etc."
+      },
+      {
+        "id": "3",
+        "value": "3. Students recall the positive aspects of History on their past present and future endeavors i.e. education, etc."
+      },
+      {
+        "id": "4",
+        "value": "4. Students recollects the disadvantage of non-adherence to History, i.e. gangsters in school and the negative experience in history.     "
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "1. Critical thinking and problem solving."
+      },
+      {
+        "id": "2",
+        "value": "2. Collaboration and Communication.  3. Digital literacy."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "1. Class discuss on the relevance of history, etc."
+      },
+      {
+        "id": "2",
+        "value": "2. Journals, Newspaper cuttings, etc."
+      },
+      {
+        "id": "3",
+        "value": "3. Autobiographies and Biographies of notables."
+      },
+      {
+        "id": "4",
+        "value": "4. Internet resources,"
+      },
+      {
+        "id": "4",
+        "value": "www.biographies.com"
+      }
+    ]
+  },
+  {
+    "_id": "12",
+    "Weeks": "12",
+    "Subject": "History",
+    "Class": "jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": " Importance of History-Society and Nation."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "1. Discuss the Importance of History to the Society and the Nation."
+      },
+      {
+        "id": "3",
+        "value": "2. Relate how History transmits cultural values, improves intergroup relations etc."
+      },
+      {
+        "id": "4",
+        "value": "3. Describes how History enhances Nationalism, Patriotism and Unity within the Society and the Nation, etc."
+      },
+      {
+        "id": "4",
+        "value": "4. Examine the Merits and Limitations of History to growth and development in Nigeria today."
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "1. Students in small groups relate the Importance of History to Societal growth and National development."
+      },
+      {
+        "id": "2",
+        "value": "2. Students explain the relevance of History to the Society i.e. cultural socialization, economic specialization, religious belief, and identities etc."
+      },
+      {
+        "id": "3",
+        "value": "3. Students in the class displays Nationalism and Patriotism by standing up for the Nigerian National Anthem, and the Nigeria Pledge, etc."
+      },
+      {
+        "id": "4",
+        "value": "4. Students in class groups discuss the advantages and the challenges of the non-adoption of History to the Society and the Nation today."
+      }
+    ],
+
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "1. Collaboration and Communication"
+      },
+      {
+        "id": "2",
+        "value": "2. Citizenship."
+      },
+      {
+        "id": "3",
+        "value": "3. Digital literacy."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "1. Map of Nigeria."
+      },
+      {
+        "id": "2",
+        "value": "2. Photographs of Nigerian Nationalists, and notable personalities."
+      },
+      {
+        "id": "3",
+        "value": "3. Students view the Nigerian Flag in their school etc."
+      },
+      {
+        "id": "4",
+        "value": "4. Pictures of societal dress culture i.e. Yoruba women Iro and Buba, etc."
+      },
+      {
+        "id": "4",
+        "value": "5. www.nigeriannationalism.com"
+      }
+    ],
+    "Status": "REVISION"
+  },
+  {
+    "_id": "13",
+    "Weeks": "13",
+    "Subject": "History",
+    "Class": "jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Revision & Examinations"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "EXAMINATION"
+  }
+]

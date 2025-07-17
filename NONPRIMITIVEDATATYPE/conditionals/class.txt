@@ -1,0 +1,22 @@
+
+set10 second class 9
+
+.CLASS OBJECTIVES
+1. if and else
+2. Tenary operator
+
+
+if and else 
+the if and else is a type of conditional statement that will execute a block of code when the condition is in the if statement is truthy. if condition is falsy, then the else blcok will be executed.
+
+truthy and falsy values are converted to true or false in if statements.
+
+false0(zero)
+-0 (negative zero)
+0n (Bigint zero)
+"", '', ```` (empty string)
+null
+undefined 
+NaN (not a number)
+TENARY OPERATOR OVERVIEW.
+The ternary operator is a shorter way to perform conditiona checks in javascript.
