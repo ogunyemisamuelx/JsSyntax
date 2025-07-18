@@ -5350,5 +5350,62 @@ console.clear();
   //   text += num + "";
   // }
   // console.log(text);
-  // Next > Sets
+  // const numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+  // function createPhoneNumber(numbers) {
+  //   return `(${numbers[0]}${numbers[1]}${numbers[2]}) ${numbers[3]}${numbers[4]}${numbers[5]}-${numbers[6]}${numbers[7]}${numbers[8]}${numbers[9]}`;
+  // }
+  // console.log(createPhoneNumber(numbers));
+  // const __AddSmallLetters = new Set(["a", "b", "c", "d", "e"]);
+  // console.log(__AddSmallLetters);
+
+  // {
+  //   //OS Js >>>> Quiz ✅
+
+  //   const __AddSmallLetters = new Set(["a", "b", "c", "d", "e"]);
+
+  //   console.log(__AddSmallLetters.add("f"));
+
+  //   //(A) Set(5) { 'a', 'b', 'c', 'd', 'e' }
+
+  //   //(B) Set(6) [ 'a', 'b', 'c', 'd', 'e','f' ]
+
+  //   //(C) Set(5) [ 'a', 'b', 'c', 'd', 'e' ]
+
+  //   //(D) Set(6) { 'a', 'b', 'c', 'd', 'e', 'f' }
+
+  //   //(E) Syntax Error
+
+  //   //like comment and follow ➕ for more
+  //   //Subscribe🟢
+  // }
+
+  // const letters = new Set();
+
+  // letters.add("a");
+  // letters.add("b");
+  // letters.add("c");
+  // console.log(letters);
+
+  // const letters = new Set();
+
+  // const a = "a";
+  // const b = "b";
+  // const c = "c";
+
+  // letters.add(a);
+  // letters.add(b);
+  // letters.add(c);
+  // letters.add(c);
+  // letters.add(c);
+  // console.log(letters);
+
+  const letters = new Set(["a", "b", "c"]);
+
+  let text = "";
+
+  for (let x of letters) {
+    text += x + " ";
+  }
+  console.log(letters instanceof Set);
+  // Next > Sets Methods
 }
